@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Teknofest Saglikta Yapay Zeka - Genomik Varyant Patojenite Tahmini</h1>
+  <h1>TGenomik Varyant Patojenite Tahmini</h1>
   <p><strong>Genetik varyantlarin (mutasyonlarin) zararli olup olmadigini tespit eden Gelismis Makine Ogrenmesi & Derin Ogrenme Topluluk (Ensemble) Modeli</strong></p>
 </div>
 
